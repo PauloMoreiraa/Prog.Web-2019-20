@@ -1,0 +1,47 @@
+.body{
+    background: #414141;
+}
+
+.btn:hover{
+    background: white;
+    color: black;
+    border: 2;
+    width: 200px;
+}
+
+.btn{
+    background: #8a6ae2;
+    color: white;
+    width: 200px;
+}
+
+.lb{
+    width: 200px;
+    color: white;
+    background: #414141;
+}
+
+.card{
+    margin-top: 5%;
+    background: rgb(88, 88, 88);
+    text-align: center;
+}
+
+.txt{
+    font-family: century gothic;
+    color: white;
+}
+
+.texts{
+    font-family: century gothic;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    
+
+}
+
+.tt{
+    font-size: 20px;
+    color: #19d1ff;
+}
